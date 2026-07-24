@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# third-party dataset — obtain from the source in DATA.md, do not commit
+colosseum_data/
+# generated outputs (reference copies are kept in results/)
+/coverage.png
+/roc_tfs.png
+/sensitivity.png
+/results_table.md
+/results_table.csv
+/sensitivity.csv
+/real_results_table.md

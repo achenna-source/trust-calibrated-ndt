@@ -1,0 +1,5 @@
+,catch_rate,false_alarm,sla_violation,commit_frac
+C0 (commit all),0.0,0.0,0.233,1.0
+C1 (validity only),0.0,0.0,0.233,1.0
+C2 (validity + TFS),1.0,0.011,0.0,0.758
+C3 (random block ctrl),0.107,0.304,0.281,0.742
